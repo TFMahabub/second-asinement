@@ -181,12 +181,13 @@
   font-family: poppins, sans-serif;
   font-size: 20px;
   font-weight: 500;
+  margin-top: 10px;
 }
 .flag_box_title > p{
   font-family: poppins, sans-serif;
   font-size: 16px;
   font-weight: 400;
-  margin-top: 5px;
+  
 }
 
 
