@@ -264,7 +264,7 @@
     }
     .container{
       flex-direction: column;
-      width: 80%;
+      width: 90%;
       height: 100vh;
       border-radius: 10px;
     }
